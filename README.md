@@ -1,4 +1,4 @@
-- 👋 Hola, soy @R1n0R3d
+
 - 🌱 Estoy en modo aprender aprendiendo 
 - 🫂 Colaboremos juntos
 
